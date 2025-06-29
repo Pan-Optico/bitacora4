@@ -1,2 +1,2 @@
-# bitacora4
-Espacio de intercambio para docente de arte del conurbano
+Mi proyecto va en la realización de una página que proponga la exploración de diferentes propuestas pedagógicas de enseñanza de las artes plásticas en diferentes niveles de escolaridad formal y no formal. A su vez propone una biblioteca con material para descargar y difirentes investigaciones que se realizan artístas en el ámbito privado de sus talleres. De esta manera la página propondría el intercambio de la enseñanza y el aprendizaje y la investigación artística sea dentro de una institución como de modo individual. 
+

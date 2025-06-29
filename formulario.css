@@ -1,0 +1,16 @@
+.formulario{
+    background-color: rgb(185, 150, 158);
+    color:#774571;
+    text-align : center;
+    border: 2px olivedrab solid;
+    border-radius: 10px;
+    padding-bottom: 35px;
+}
+
+@media only screen and (min-width: 601px) {
+    .formulario{
+    background-color: #195252 ;
+    color: rgb(74, 92, 37) solid;
+    
+}
+}
